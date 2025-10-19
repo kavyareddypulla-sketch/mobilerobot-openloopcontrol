@@ -140,7 +140,6 @@ if __name__ == '__main__':
 
 ![robo](./img/robomaster.png)
 
-Insert image here
 
 ## MobileRobot Movement Video:
 
