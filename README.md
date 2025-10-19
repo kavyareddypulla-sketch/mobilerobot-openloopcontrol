@@ -142,15 +142,10 @@ if __name__ == '__main__':
 
 Insert image here
 
-
-<br/>
-<br/>
-<br/>
-<br/>
-
 ## MobileRobot Movement Video:
 
-Upload your video in Youtube and paste your video-id here
+Upload your video in Youtube and paste your video-id here 
+
 https://youtube.com/shorts/2XfYvZLRd-E?si=gU_Zd_reTbLyvdH4
 
 
